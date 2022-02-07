@@ -1,0 +1,7 @@
+# img
+*.jpg
+*.png
+images/
+
+#videos
+*.mp4
